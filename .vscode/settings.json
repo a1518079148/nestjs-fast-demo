@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
